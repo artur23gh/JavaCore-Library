@@ -7,3 +7,5 @@ public class MyClass {
 }
 
 class A{}
+
+class B{}
